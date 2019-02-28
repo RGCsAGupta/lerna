@@ -1,5 +1,5 @@
 {
-  "name": "@agupta_i-sight/test1",
+  "name": "test1e322432432",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Akash Gupta <agupta@i-sight.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/CExAGupta/test1/issues"
-  }
+  },
+  "gitHead": "1ea2655136f8028093d70ecceb1d15e3b4652ded"
 }
