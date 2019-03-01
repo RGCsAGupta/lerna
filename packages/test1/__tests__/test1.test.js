@@ -2,6 +2,6 @@
 
 const test1 = require('..');
 
-describe('test1', () => {
-    it('needs tests111');
+describe('@isight/test1', () => {
+    it('needs tests');
 });

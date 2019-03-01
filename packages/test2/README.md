@@ -1,11 +1,11 @@
-# `@isight/test1`
+# `@isight/test2`
 
 > TODO: description
 
 ## Usage
 
 ```
-const test1 = require('@isight/test1');
+const test2 = require('@isight/test2');
 
 // TODO: DEMONSTRATE API
 ```

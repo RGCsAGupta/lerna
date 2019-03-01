@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = test1;
+module.exports = test2;
 
-function test1() {
+function test2() {
 	console.log('----------------------------------------------->test1');
 }
