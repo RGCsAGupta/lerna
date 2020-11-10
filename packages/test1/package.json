@@ -27,6 +27,6 @@
     "url": "https://github.com/CExAGupta/lerna/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   }
 }
