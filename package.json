@@ -1,7 +1,24 @@
 {
-  "name": "root",
-  "private": true,
-  "devDependencies": {
-    "lerna": "^3.13.1"
-  }
+	"name": "root",
+	"private": true,
+	"scripts": {
+		"lerna::publish": "lerna publish",
+		"lerna::version": "lerna version",
+		"lerna::bootstrap": "lerna bootstrap",
+		"lerna::list": "lerna list",
+		"lerna::changed": "lerna changed",
+		"lerna::diff": "lerna diff",
+		"lerna::exec": "lerna exec",
+		"lerna::run": "lerna run",
+		"lerna::init": "lerna init",
+		"lerna::add": "lerna add",
+		"lerna::clean": "lerna clean",
+		"lerna::import": "lerna import",
+		"lerna::link": "lerna link",
+		"lerna::create": "lerna create",
+		"lerna::info": "lerna info"
+	},
+	"devDependencies": {
+		"lerna": "^3.13.1"
+	}
 }
